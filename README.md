@@ -1,3 +1,4 @@
+Modified by Maxi
 _This is an assignment to the class [Advanced Programming](https://hsro-inf-fpk.github.io) at the [University of Applied Sciences Rosenheim](http://www.th-rosenheim.de)._
 
 # Assignment 1: A (Java) software engineers toolbox
